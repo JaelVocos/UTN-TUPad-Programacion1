@@ -6,6 +6,8 @@
 
 frasePalabra = input("ingrese frase o palabra: ")
 
+#aca convertimos la palabra o frase que ingresa el usuario a minusculas con lower
+#use el metodo endswith para verificar si la cadena de texto termina con vocal, si es asi imprime al final de la cadena un signo de exclamacion
 if frasePalabra.lower().endswith(("a","e","i","o","u")):
     print(frasePalabra + "!")
 else:

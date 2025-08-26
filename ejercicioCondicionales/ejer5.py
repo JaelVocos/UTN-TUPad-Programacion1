@@ -7,7 +7,11 @@
 
 contraseña = input("ingrese su contraseña: ")
 
+#aca uso len para obtener la cantidad de letras de la palabra que ingresa el usuario
+#si contraseña es mayor o igual a 8 y contraseña es menor o igual a 14 entonces muestra por pantalla 
+#ha ingresado la contrasela correcta
 if len(contraseña)>=8 and len(contraseña)<=14:
     print("Ha ingresado la contraseña correcta!")
+#sino muestra contraseña incorrecta
 else:
     print ("contraseña incorrecta")

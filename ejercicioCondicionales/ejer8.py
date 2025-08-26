@@ -15,13 +15,14 @@ print("1.Si queres tu nombre en mayusculas")
 print("2.Si queres tu nombre en minusculas")
 print("3.Si queres tu nombre con la primera letra mayuscula")
 
+#aca le damos al usuario que ingrese las opciones 1,2,3 mostradas en pantalla anteriormente
 opcion = int(input("ingrese opcion 1,2,3: "))
 
 if opcion == 1:
-    print(nombre.upper())
+    print(nombre.upper()) #upper convierte el nombre en mayusculas
 elif opcion == 2 :
-    print(nombre.lower())
+    print(nombre.lower()) #lower convierte el nombre en minusculas
 elif opcion == 3:
-    print(nombre.title())
+    print(nombre.title()) #y title convierte la inicial del nombre en mayuscula
 else:
     print("ingrese una opcion valida")

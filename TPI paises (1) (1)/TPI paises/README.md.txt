@@ -101,5 +101,5 @@ Año: 2025 – 2º Cuatrimestre
 Enlaces
 - [Informe completo en formato PDF](./docs/informe.pdf)
 - [Video presentación del proyecto](https://youtu.be/RBw1icwYbzM)
-- [Repositorio GitHub](https://github.com/KarinaVDT/UTN-TUPaD-PRG1/tree/a7eb1143001b96dc97b033d17210954356fb3993/TPI%20paices/src%20-%20Codigo%20fuente)
+- [Repositorio GitHub](https://github.com/KarinaVDT/UTN-TUPaD-PRG1/tree/a7eb1143001b96dc97b033d17210954356fb3993/TPI%20paices/src%20-%20Codigo%20fuente) (https://github.com/JaelVocos/UTN-TUPad-Programacion1/tree/main/TPI%20paises%20(1)%20(1))
 
